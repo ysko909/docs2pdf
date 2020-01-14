@@ -1,6 +1,6 @@
 # docs2pdf
 
-Pythonで複数のdocxを1つのPDFにまとめる
+Pythonで、複数のdocxを1つのPDFにまとめるコード。
 
 # 解説など
 
